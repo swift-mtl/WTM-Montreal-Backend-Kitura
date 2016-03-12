@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0-dev (LLVM b361b0fc05, Clang 11493b0f62, Swift 24a0c3de75)"
+options: "b6372b5be8dd85327dade0f387067c4c"
+build_time: [511063156, 737178000]
+inputs:
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/HeliumLogger-0.0.4/Sources/LoggerSample/main.swift": [511037444, 0]

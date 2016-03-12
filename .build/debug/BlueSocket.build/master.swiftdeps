@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0-dev (LLVM b361b0fc05, Clang 11493b0f62, Swift 24a0c3de75)"
+options: "ea577fc630fd61f389a2392888172c7c"
+build_time: [511063156, 358956000]
+inputs:
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/BlueSocket-0.1.4/Sources/BlueSocket.swift": [511037434, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/BlueSocket-0.1.4/Sources/BlueSocketProtocols.swift": [511037434, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/BlueSocket-0.1.4/Sources/BlueSocketUtils.swift": [511037434, 0]

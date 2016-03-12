@@ -1,0 +1,125 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "UserModel"
+provides-nominal:
+- "V6wtmapp9UserModel"
+provides-member:
+- ["V6wtmapp9UserModel", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "String"
+- "BooleanLiteralType"
+- "UserModel"
+- "FloatLiteralType"
+- "JSONDictionary"
+- "IntegerLiteralType"
+- "Bool"
+- "StringLiteralType"
+- "Int"
+depends-member:
+- !private ["Sb", "deinit"]
+- !private ["Ps14CollectionType", "Generator"]
+- !private ["Ps14CollectionType", "Index"]
+- !private ["Ps14CollectionType", "SubSequence"]
+- !private ["Ps14CollectionType", "_Element"]
+- !private ["Ps14CollectionType", "init"]
+- !private ["Ps14CollectionType", "subscript"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "subscript"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "subscript"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "subscript"]
+- !private ["Vs10Dictionary", "init"]
+- !private ["Vs10Dictionary", "subscript"]
+- !private ["Ps28DictionaryLiteralConvertible", "init"]
+- !private ["Ps28DictionaryLiteralConvertible", "subscript"]
+- !private ["Ps13GeneratorType", "Element"]
+- !private ["Ps9Indexable", "Generator"]
+- !private ["Ps9Indexable", "Index"]
+- !private ["Ps9Indexable", "SubSequence"]
+- !private ["Ps9Indexable", "_Element"]
+- !private ["Ps9Indexable", "init"]
+- !private ["Ps9Indexable", "subscript"]
+- !private ["Vs17IndexingGenerator", "Element"]
+- !private ["Si", "deinit"]
+- !private ["Ps12SequenceType", "Element"]
+- !private ["Ps12SequenceType", "Generator"]
+- !private ["Ps12SequenceType", "Index"]
+- !private ["Ps12SequenceType", "SubSequence"]
+- !private ["Ps12SequenceType", "_Element"]
+- !private ["Ps12SequenceType", "init"]
+- !private ["Ps12SequenceType", "subscript"]
+- !private ["Vs5Slice", "Generator"]
+- !private ["Vs5Slice", "Index"]
+- !private ["Vs5Slice", "SubSequence"]
+- !private ["Vs5Slice", "_Element"]
+- !private ["SS", "deinit"]
+- ["V6wtmapp9UserModel", "Bool"]
+- ["V6wtmapp9UserModel", "Int"]
+- ["V6wtmapp9UserModel", "JSONDictionary"]
+- ["V6wtmapp9UserModel", "String"]
+- ["V6wtmapp9UserModel", "address"]
+- ["V6wtmapp9UserModel", "id"]
+- ["V6wtmapp9UserModel", "init"]
+- ["V6wtmapp9UserModel", "isAdmin"]
+- ["V6wtmapp9UserModel", "name"]
+- ["V6wtmapp9UserModel", "score"]
+- ["V6wtmapp9UserModel", "serialize"]
+- ["V6wtmapp9UserModel", "url"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "subscript"]
+depends-nominal:
+- !private "Sb"
+- !private "Ps14CollectionType"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "Vs10Dictionary"
+- !private "Ps28DictionaryLiteralConvertible"
+- !private "Ps13GeneratorType"
+- !private "Ps9Indexable"
+- !private "Vs17IndexingGenerator"
+- !private "Si"
+- !private "Ps12SequenceType"
+- !private "Vs5Slice"
+- !private "SS"
+- "V6wtmapp9UserModel"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/shims/Visibility.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/shims/UnicodeShims.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/shims/RuntimeStubs.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/shims/SwiftStdint.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/shims/SwiftStddef.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/shims/RuntimeShims.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/shims/LibcShims.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/shims/RefCount.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/shims/HeapObject.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/shims/GlobalObjects.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/shims/FoundationShims.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/shims/module.map"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.swiftmodule"
+- "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/BlueSocket.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Library/Developer/Toolchains/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraNet.swiftmodule"
+- "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-CurlHelpers-0.3.0/CurlHelpers.h"
+- "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-HttpParserHelper-0.3.1/module.modulemap"
+- "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-CurlHelpers-0.3.0/module.modulemap"
+- "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraSys.swiftmodule"
+- "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/LoggerAPI.swiftmodule"
+- "/usr/local/include/http_parser.h"
+- "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-HttpParserHelper-0.3.1/utils.h"
+- "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraTemplateEngine.swiftmodule"
+- "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/SwiftyJSON.swiftmodule"
+- "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/HeliumLogger.swiftmodule"
+interface-hash: "d7e5d2a8c79270e43dc7055aec0182f4"

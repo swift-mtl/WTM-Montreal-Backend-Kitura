@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/master.swiftdeps"
+  },
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Sources/wtmapp/main.swift": {
+    "dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/main.d",
+    "object": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/main.swift.o",
+    "swiftmodule": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/main.swiftdeps"
+  },
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Sources/wtmapp/Controllers/App.swift": {
+    "dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/App.d",
+    "object": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/Controllers/App.swift.o",
+    "swiftmodule": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/App~partial.swiftmodule",
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/App.swiftdeps"
+  },
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Sources/wtmapp/Models/UserCollection.swift": {
+    "dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/UserCollection.d",
+    "object": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/Models/UserCollection.swift.o",
+    "swiftmodule": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/UserCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/UserCollection.swiftdeps"
+  },
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Sources/wtmapp/Models/UserDAOProtocol.swift": {
+    "dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/UserDAOProtocol.d",
+    "object": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/Models/UserDAOProtocol.swift.o",
+    "swiftmodule": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/UserDAOProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/UserDAOProtocol.swiftdeps"
+  },
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Sources/wtmapp/Models/UserModel.swift": {
+    "dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/UserModel.d",
+    "object": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/Models/UserModel.swift.o",
+    "swiftmodule": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/UserModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/wtmapp.build/UserModel.swiftdeps"
+  }
+}

@@ -1,0 +1,16 @@
+version: "Apple Swift version 3.0-dev (LLVM b361b0fc05, Clang 11493b0f62, Swift 24a0c3de75)"
+options: "2cddce0a3ee94adc52eca6c160a8b2da"
+build_time: [511063157, 681536000]
+inputs:
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-net-0.3.8/Sources/KituraNet/BufferList.swift": [511037430, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-net-0.3.8/Sources/KituraNet/ClientRequest.swift": [511037430, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-net-0.3.8/Sources/KituraNet/ClientResponse.swift": [511037430, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-net-0.3.8/Sources/KituraNet/Http.swift": [511037430, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-net-0.3.8/Sources/KituraNet/HttpServer.swift": [511037430, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-net-0.3.8/Sources/KituraNet/HttpServerSpi.swift": [511037430, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-net-0.3.8/Sources/KituraNet/IncomingMessage.swift": [511037430, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-net-0.3.8/Sources/KituraNet/ServerRequest.swift": [511037430, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-net-0.3.8/Sources/KituraNet/ServerResponse.swift": [511037430, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-net-0.3.8/Sources/KituraNet/SpiUtils.swift": [511037430, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-net-0.3.8/Sources/KituraNet/HttpParser/HttpParser.swift": [511037430, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-net-0.3.8/Sources/KituraNet/HttpParser/UrlParser.swift": [511037430, 0]

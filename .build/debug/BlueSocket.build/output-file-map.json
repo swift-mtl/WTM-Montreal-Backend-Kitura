@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/BlueSocket.build/master.swiftdeps"
+  },
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/BlueSocket-0.1.4/Sources/BlueSocket.swift": {
+    "dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/BlueSocket.build/BlueSocket.d",
+    "object": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/BlueSocket.build/BlueSocket.swift.o",
+    "swiftmodule": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/BlueSocket.build/BlueSocket~partial.swiftmodule",
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/BlueSocket.build/BlueSocket.swiftdeps"
+  },
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/BlueSocket-0.1.4/Sources/BlueSocketProtocols.swift": {
+    "dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/BlueSocket.build/BlueSocketProtocols.d",
+    "object": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/BlueSocket.build/BlueSocketProtocols.swift.o",
+    "swiftmodule": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/BlueSocket.build/BlueSocketProtocols~partial.swiftmodule",
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/BlueSocket.build/BlueSocketProtocols.swiftdeps"
+  },
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/BlueSocket-0.1.4/Sources/BlueSocketUtils.swift": {
+    "dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/BlueSocket.build/BlueSocketUtils.d",
+    "object": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/BlueSocket.build/BlueSocketUtils.swift.o",
+    "swiftmodule": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/BlueSocket.build/BlueSocketUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/BlueSocket.build/BlueSocketUtils.swiftdeps"
+  }
+}

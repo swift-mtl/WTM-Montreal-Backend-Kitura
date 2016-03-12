@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0-dev (LLVM b361b0fc05, Clang 11493b0f62, Swift 24a0c3de75)"
+options: "556ea551e9667a6a7531be319fd949d6"
+build_time: [511063156, 521647000]
+inputs:
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Sys-0.3.1/Sources/KituraSys/Queue.swift": [511037431, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Sys-0.3.1/Sources/KituraSys/Server.swift": [511037431, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Sys-0.3.1/Sources/KituraSys/StringUtils.swift": [511037431, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Sys-0.3.1/Sources/KituraSys/SysUtils.swift": [511037431, 0]

@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/master.swiftdeps"
+  },
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Router-0.3.9/Sources/KituraRouter/Router.swift": {
+    "dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/Router.d",
+    "object": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/Router.swift.o",
+    "swiftmodule": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/Router~partial.swiftmodule",
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/Router.swiftdeps"
+  },
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Router-0.3.9/Sources/KituraRouter/RouterElement.swift": {
+    "dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/RouterElement.d",
+    "object": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/RouterElement.swift.o",
+    "swiftmodule": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/RouterElement~partial.swiftmodule",
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/RouterElement.swiftdeps"
+  },
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Router-0.3.9/Sources/KituraRouter/RouterMiddleware.swift": {
+    "dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/RouterMiddleware.d",
+    "object": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/RouterMiddleware.swift.o",
+    "swiftmodule": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/RouterMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/RouterMiddleware.swiftdeps"
+  },
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Router-0.3.9/Sources/KituraRouter/RouterRequest.swift": {
+    "dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/RouterRequest.d",
+    "object": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/RouterRequest.swift.o",
+    "swiftmodule": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/RouterRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/RouterRequest.swiftdeps"
+  },
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Router-0.3.9/Sources/KituraRouter/RouterResponse.swift": {
+    "dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/RouterResponse.d",
+    "object": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/RouterResponse.swift.o",
+    "swiftmodule": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/RouterResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/RouterResponse.swiftdeps"
+  },
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Router-0.3.9/Sources/KituraRouter/bodyParser/BodyParser.swift": {
+    "dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/BodyParser.d",
+    "object": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/bodyParser/BodyParser.swift.o",
+    "swiftmodule": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/BodyParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/BodyParser.swiftdeps"
+  },
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Router-0.3.9/Sources/KituraRouter/contentType/ContentType.swift": {
+    "dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/ContentType.d",
+    "object": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/contentType/ContentType.swift.o",
+    "swiftmodule": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/ContentType~partial.swiftmodule",
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/ContentType.swiftdeps"
+  },
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Router-0.3.9/Sources/KituraRouter/staticFileServer/StaticFileServer.swift": {
+    "dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/StaticFileServer.d",
+    "object": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/staticFileServer/StaticFileServer.swift.o",
+    "swiftmodule": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/StaticFileServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/KituraRouter.build/StaticFileServer.swiftdeps"
+  }
+}

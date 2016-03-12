@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/SwiftyJSON.build/master.swiftdeps"
+  },
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/SwiftyJSON-2.3.3/Source/SwiftyJSON.swift": {
+    "dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/SwiftyJSON.build/SwiftyJSON.d",
+    "object": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/SwiftyJSON.build/SwiftyJSON.swift.o",
+    "swiftmodule": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/SwiftyJSON.build/SwiftyJSON~partial.swiftmodule",
+    "swift-dependencies": "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/.build/debug/SwiftyJSON.build/SwiftyJSON.swiftdeps"
+  }
+}

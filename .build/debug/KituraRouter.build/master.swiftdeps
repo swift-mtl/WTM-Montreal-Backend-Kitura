@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0-dev (LLVM b361b0fc05, Clang 11493b0f62, Swift 24a0c3de75)"
+options: "1d47964813550e2debd30559bc6738ec"
+build_time: [511063158, 751532000]
+inputs:
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Router-0.3.9/Sources/KituraRouter/Router.swift": [511037427, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Router-0.3.9/Sources/KituraRouter/RouterElement.swift": [511037427, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Router-0.3.9/Sources/KituraRouter/RouterMiddleware.swift": [511037427, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Router-0.3.9/Sources/KituraRouter/RouterRequest.swift": [511037427, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Router-0.3.9/Sources/KituraRouter/RouterResponse.swift": [511037427, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Router-0.3.9/Sources/KituraRouter/bodyParser/BodyParser.swift": [511037427, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Router-0.3.9/Sources/KituraRouter/contentType/ContentType.swift": [511037427, 0]
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-Router-0.3.9/Sources/KituraRouter/staticFileServer/StaticFileServer.swift": [511037427, 0]

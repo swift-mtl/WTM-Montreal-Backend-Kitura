@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0-dev (LLVM b361b0fc05, Clang 11493b0f62, Swift 24a0c3de75)"
+options: "7463729518a6cee961d3907debbcdc0d"
+build_time: [511063156, 362328000]
+inputs:
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/LoggerAPI-0.3.0/Sources/LoggerAPI/Logger.swift": [511037433, 0]

@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0-dev (LLVM b361b0fc05, Clang 11493b0f62, Swift 24a0c3de75)"
+options: "63d645604e8558bdfdbf54668f43e0b9"
+build_time: [511063156, 358959000]
+inputs:
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/Kitura-TemplateEngine-0.0.1/Sources/TemplateEngine.swift": [511037443, 0]

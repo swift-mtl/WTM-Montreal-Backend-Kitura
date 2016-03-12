@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0-dev (LLVM b361b0fc05, Clang 11493b0f62, Swift 24a0c3de75)"
+options: "9a8c82c95dc8a7f9d269856032d71de4"
+build_time: [511063156, 358313000]
+inputs:
+  "/Users/fatih/Dropbox/WTM/GitHub/WTM-Montreal-Backend-Kitura/Packages/SwiftyJSON-2.3.3/Source/SwiftyJSON.swift": [511037442, 0]
